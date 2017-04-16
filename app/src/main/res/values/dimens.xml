@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="img_about">160dp</dimen>
+    <dimen name="nav_drawer_width">250dp</dimen>
+    <dimen name="img_cover_width">75dp</dimen>
+    <dimen name="img_cover_height">100dp</dimen>
+    <dimen name="img_cover_width_form">100dp</dimen>
+    <dimen name="img_cover_height_form">125dp</dimen>
+</resources>
